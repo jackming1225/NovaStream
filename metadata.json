@@ -1,0 +1,6 @@
+{
+  "name": "NovaStream - Low-Latency Video Client",
+  "description": "Low-latency Android video streaming client featuring MediaCodec async hardware decoding, Vulkan/EGL tear-free frame pacing, adaptive jitter buffer, and real-time GPU/SurfaceFlinger profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
